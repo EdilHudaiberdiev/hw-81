@@ -1,0 +1,10 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.comments-block {
+  max-height: 250px;
+  overflow: auto;
+}
